@@ -1,0 +1,14 @@
+{
+  "name": "nodefilecopy",
+  "version": "0.0.1",
+  "description": "为了copy简化写一个node脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "file-copy": "./run.js"
+  },
+  "author": "hy",
+  "license": "ISC"
+}
